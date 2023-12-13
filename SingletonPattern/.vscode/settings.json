@@ -1,0 +1,4 @@
+{
+    "mesonbuild.configureOnOpen": true,
+    "C_Cpp.default.compileCommands": "c:\\Users\\Kyle\\Software\\HeadfirstDesignPatterns\\SingletonPattern\\builddir/compile_commands.json"
+}
