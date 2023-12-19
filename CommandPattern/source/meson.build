@@ -1,0 +1,1 @@
+sources += files('SimpleRemoteControl.cpp', 'MultiSlotRemoteControl.cpp')
